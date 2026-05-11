@@ -1,0 +1,9 @@
+Byte match ratio: 100.0000%
+MSE=0, SNR=Inf, PSNR=Inf, Corr=1.000000
+Perfect reconstruction detected — zero error.
+
+FSDD_0_george_0.wav  → PSNR=185.14 dB, Corr=1.000000
+FSDD_0_george_1.wav  → PSNR=187.28 dB, Corr=1.000000
+FSDD_0_george_10.wav → PSNR=187.10 dB, Corr=1.000000
+FSDD_0_george_11.wav → PSNR=188.74 dB, Corr=1.000000
+FSDD_0_george_12.wav → PSNR=188.26 dB, Corr=1.000000
